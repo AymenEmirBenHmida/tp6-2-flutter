@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063097472294",
+    "project_id": "facebookfollowing-9d716",
+    "storage_bucket": "facebookfollowing-9d716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063097472294:android:2766484e392876995d5de7",
+        "android_client_info": {
+          "package_name": "com.example.following_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063097472294-acbp0d0krm19gd3ugenupajad7tn6en6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQT81mAmhXERySBwYmmmEWMe8R8buh_Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063097472294-acbp0d0krm19gd3ugenupajad7tn6en6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
